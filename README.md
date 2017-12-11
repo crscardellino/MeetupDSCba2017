@@ -4,7 +4,3 @@
 
 Material de la charla "Combinando Python Notebooks con R y ggplot" para el 4to
 encuentro de data science de Córdoba-Argentina.
-
-conda create --name meetupdscba python=3 anaconda
-source activate meetupdscba
-conda install -c r r-essentials rpy2
